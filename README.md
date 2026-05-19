@@ -1,6 +1,6 @@
 # Data Jobs Dashboards w/ Power Bi
 
-![Dashboard Page 1](/images/Project1_Page1.png)
+<img width="633" height="357" alt="Project1_Page1" src="https://github.com/user-attachments/assets/67538768-d88a-4d12-a22e-19e4d1abed34" />
 
 ## Introduction
 
@@ -24,7 +24,6 @@ Seekers, Job Transitioners, and Job Swappers** to solve a common problem: inform
 ## Dashboard Overview
 
 <img width="633" height="357" alt="Project1_Page1" src="https://github.com/user-attachments/assets/a0836b27-5cb1-45d1-b411-a6ed2e5c2d3f" />
-
 
 ### Page 1: High-Level Market View
 
