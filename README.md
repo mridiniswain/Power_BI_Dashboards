@@ -23,9 +23,9 @@ Seekers, Job Transitioners, and Job Swappers** to solve a common problem: inform
 
 ## Dashboard Overview
 
-<img width="633" height="357" alt="Project1_Page1" src="https://github.com/user-attachments/assets/a0836b27-5cb1-45d1-b411-a6ed2e5c2d3f" />
-
 ### Page 1: High-Level Market View
+
+<img width="633" height="357" alt="Project1_Page1" src="https://github.com/user-attachments/assets/a0836b27-5cb1-45d1-b411-a6ed2e5c2d3f" />
 
 This is your mission control for the data job market. It showcases key KPIs like total job count, median salaries, and top job titles to give you a quick understanding of what's happening in the job market at a glance.
 
