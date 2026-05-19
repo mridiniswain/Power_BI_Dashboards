@@ -23,15 +23,16 @@ Seekers, Job Transitioners, and Job Swappers** to solve a common problem: inform
 
 ## Dashboard Overview
 
-### Page 1: High-Level Market View
+<img width="633" height="357" alt="Project1_Page1" src="https://github.com/user-attachments/assets/a0836b27-5cb1-45d1-b411-a6ed2e5c2d3f" />
 
-![Dashboard Page 1](/images/Project1_page1.png)
+
+### Page 1: High-Level Market View
 
 This is your mission control for the data job market. It showcases key KPIs like total job count, median salaries, and top job titles to give you a quick understanding of what's happening in the job market at a glance.
 
 ### Page 2: Job Title Drill Through
 
-![Dashboard Page 1](/images/Project1_page2.png)
+<img width="632" height="359" alt="Project1_Page2" src="https://github.com/user-attachments/assets/2d80c045-25c5-4dfa-a71e-aeba0f1d73b7" />
 
 This is the deep-dive page. From the main dashboard, you can drill through to this view to get specific details for a single job title, including salary ranges, work-from-home stats, top hiring platforms, and a global map of job locations.
 
